@@ -1,0 +1,18 @@
+[
+    {
+        "model": "myapp.mymodel",
+        "pk": 4,
+        "fields": {
+            "name": "First",
+            "metadata": "{}"
+        }
+    },
+    {
+        "model": "myapp.mymodel",
+        "pk": 5,
+        "fields": {
+            "name": "Second",
+            "metadata": "{\"details\": \"this one isn't blank\"}"
+        }
+    }
+]
